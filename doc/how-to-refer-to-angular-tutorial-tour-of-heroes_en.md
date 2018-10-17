@@ -1,3 +1,6 @@
+This file is Work In Progress.
+
+----
 # How to refer to Angular Tutorial "Tour of Heroes"
 
 ## Who can read this document
